@@ -1,4 +1,4 @@
-#1-year journey of studying backend
+# 1-year journey of studying backend
 
 ## What is this repo?
 
@@ -163,27 +163,72 @@ Certainly! Here's the expanded version of the topic "Foundational Backend Engine
 - Design Patterns: Study various design patterns (e.g., Singleton, Factory, Observer) and understand their applications in solving common software design problems.
 - Continuous Integration and Deployment (CI/CD): Gain knowledge of CI/CD pipelines, automated testing, and deployment strategies.
 
+Certainly! Here are some topics and books on refactoring that you can add to your 1-year study plan:
+
+### **Refactoring Topics:**
+
+1. **Code Smells:**
+   - Learn about common code smells that indicate potential design issues and opportunities for refactoring.
+   - Understand how to identify and address code smells such as long methods, duplicated code, and large classes.
+
+2. **Refactoring Techniques:**
+   - Study various refactoring techniques and patterns to improve code quality and maintainability.
+   - Learn about techniques like Extract Method, Extract Class, Replace Conditional with Polymorphism, and more.
+
+3. **Refactoring Tools:**
+   - Explore popular refactoring tools and plugins available for different programming languages and IDEs.
+   - Understand how to leverage automated refactoring tools to refactor code more efficiently and safely.
+
+4. **Refactoring in Legacy Code:**
+   - Learn strategies for refactoring legacy codebases without introducing regressions.
+   - Understand how to incrementally refactor legacy code to improve its design and maintainability.
+
+5. **Testing and Refactoring:**
+   - Explore the relationship between testing and refactoring.
+   - Learn how to write effective unit tests to ensure the correctness of refactored code.
+
+6. **Code Review and Refactoring:**
+   - Understand the role of code review in the refactoring process.
+   - Learn how to provide and receive constructive feedback during code reviews to drive effective refactoring.
+
+7. **Refactoring in Agile Development:**
+   - Explore how refactoring fits into the Agile development process.
+   - Understand the importance of continuous refactoring in maintaining a healthy codebase.
+
 <br/>
 <br/>
 
 ## Books
 
-1. **Foundational Backend Engineering Concepts:**
-   - "Clean Architecture: A Craftsman's Guide to Software Structure and Design" by Robert C. Martin
-   - "Building Microservices: Designing Fine-Grained Systems" by Sam Newman
-   - "Web Scalability for Startup Engineers" by Artur Ejsmont
+ **Foundational Backend Engineering Concepts:**
 
-4. **Database Management:**
-   - "Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems" by Martin Kleppmann
-   - "Practical PostgreSQL" by Joshua D. Drake
-   - "MongoDB Applied Design Patterns" by Rick Copeland
+- "Clean Architecture: A Craftsman's Guide to Software Structure and Design" by Robert C. Martin
+- "Building Microservices: Designing Fine-Grained Systems" by Sam Newman
+- "Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems" by Martin Kleppmann
 
-5. **Algorithms and Data Structures:**
-   - "Algorithms, Part I" and "Algorithms, Part II" by Robert Sedgewick and Kevin Wayne
-   - "Data Structures and Algorithms in JavaScript" by Michael McMillan
-   - "Introduction to the Theory of Computation" by Michael Sipser
+ **Database Management:**
 
-6. **Clean Code and Software Engineering Practices:**
-   - "The Pragmatic Programmer: Your Journey to Mastery" by Andrew Hunt and David Thomas
-   - "Domain-Driven Design: Tackling Complexity in the Heart of Software" by Eric Evans
-   - "Test-Driven Development: By Example" by Kent Beck
+- "Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems" by Martin Kleppmann
+- "Practical PostgreSQL" by Joshua D. Drake
+- "MongoDB Applied Design Patterns" by Rick Copeland
+
+ **Algorithms and Data Structures:**
+
+- "Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People" by Aditya Y. Bhargava
+- "Algorithms, Part I" and "Algorithms, Part II" by Robert Sedgewick and Kevin Wayne
+- "Data Structures and Algorithms in JavaScript" by Michael McMillan
+- "Introduction to the Theory of Computation" by Michael Sipser
+
+ **Clean Code and Software Engineering Practices:**
+
+- "The Pragmatic Programmer: Your Journey to Mastery" by Andrew Hunt and David Thomas
+- "Domain-Driven Design: Tackling Complexity in the Heart of Software" by Eric Evans
+- "Test-Driven Development: By Example" by Kent Beck
+
+**Refactoring:**
+
+- "Refactoring: Improving the Design of Existing Code" by Martin Fowler, Kent Beck, John Brant, William Opdyke, Don Roberts
+- "Clean Code: A Handbook of Agile Software Craftsmanship" by Robert C. Martin
+- "Working Effectively with Legacy Code" by Michael Feathers
+- "Refactoring to Patterns" by Joshua Kerievsky
+- "Refactoring: Ruby Edition" by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck
